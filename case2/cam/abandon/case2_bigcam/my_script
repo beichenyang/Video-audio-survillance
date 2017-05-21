@@ -1,0 +1,5 @@
+#!/bin/bash
+# My first script
+
+python UDP_CamServer_1.py &
+./CamEnv

@@ -1,0 +1,5 @@
+#!/bin/bash
+# My first script
+
+python TCP_server_RaspCam_Thread.py &
+python UDP_CamServer_1.py
